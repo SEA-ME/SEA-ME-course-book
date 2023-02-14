@@ -1,4 +1,4 @@
-# Autonomous Driving Systems
+# **Autonomous Driving Systems**
 
 The term autonomous driving systems refers to advanced technology that allows vehicles to drive themselves without human intervention. These systems are designed to provide a high degree of safety, comfort, and efficiency, and to make driving more convenient and accessible for people. \
 
@@ -14,15 +14,15 @@ Learning autonomous driving systems through peer-peer educational projects can p
 
 Here are a few steps that could be involved in learning autonomous driving systems through peer-peer educational projects:
 
-1. Familiarization with key technologies: Students start by gaining an understanding of the key technologies and concepts involved in autonomous driving systems, such as computer vision, machine learning, and control systems. Students also familiarize themselves with opportunities, limits, and ethical / governance questions around the use of autonomous vehicles. 
+1. **Familiarization with key technologies**: Students start by gaining an understanding of the key technologies and concepts involved in autonomous driving systems, such as computer vision, machine learning, and control systems. Students also familiarize themselves with opportunities, limits, and ethical / governance questions around the use of autonomous vehicles. 
 
-2. Team formation and project selection: Students then form teams and select a project that they want to work on. The project should be relevant to autonomous driving systems and aligned with current and future industry requirements.
+2. **Team formation and project selection**: Students then form teams and select a project that they want to work on. The project should be relevant to autonomous driving systems and aligned with current and future industry requirements.
 
-3. Project planning and development: Teams then plan and develop their projects, working together to integrate the various components of the autonomous driving system, such as sensors, control units, and software algorithms.
+3. **Project planning and development**: Teams then plan and develop their projects, working together to integrate the various components of the autonomous driving system, such as sensors, control units, and software algorithms.
 
-4. Testing and validation: Teams then test and validate their projects, both in simulation and in real-world environments, to ensure that the system meets the desired requirements.
+4. **Testing and validation**: Teams then test and validate their projects, both in simulation and in real-world environments, to ensure that the system meets the desired requirements.
 
-5. Presentation and reflection: Teams then present their projects to their peers and instructors, reflecting on what they learned and what could be improved.
+5. **Presentation and reflection**: Teams then present their projects to their peers and instructors, reflecting on what they learned and what could be improved.
 
 Peer-to-peer educational projects provide students with the opportunity to work on real-world projects, develop their technical and team-working skills, and gain hands-on experience in developing autonomous driving systems. This approach also provides students with an understanding of the current and future industry requirements and helps to prepare them for careers in the mobility industry.
 
