@@ -1,4 +1,12 @@
 # **Software Engineering in Automotive and Mobility Ecosystems**
+## **Index**
+#### [Context](#context)
+#### [Overview](#overview--current-trends-in-mobility)
+#### [Fundamentals of Software Development](#fundamentals-of-software-development-1)
+#### [Mobility Software Development](#mobility-software-development-1)
+#### [Peer-Peer Learning](#peer-to-peer-learning-techniques)
+#### [Curriculum](#tech-curriculum)
+
 ## **Context**
 
 **Why Study SEA:ME?**
@@ -91,7 +99,7 @@ Software engineering is a systematic and disciplined approach to developing soft
 
 These core principles and techniques form the foundation of software engineering and are used to guide the development, testing, and maintenance of software systems. By using these principles and techniques, software engineers can ensure that their systems are reliable, maintainable, and of high quality.
 
-## Mobility Software Development
+## **Mobility Software Development**
 
 This section focuses specifically on the development of software for the mobility industry, covering topics such as embedded systems, software architecture for vehicles, and safety-critical systems.
 
