@@ -1,11 +1,21 @@
 # **Software Engineering in Automotive and Mobility Ecosystems**
-## **Index**
-#### [Context](#context)
-#### [Overview](#overview--current-trends-in-mobility)
-#### [Fundamentals of Software Development](#fundamentals-of-software-development-1)
-#### [Mobility Software Development](#mobility-software-development-1)
-#### [Peer-Peer Learning](#peer-to-peer-learning-techniques)
-#### [Curriculum](#tech-curriculum)
+- [**Software Engineering in Automotive and Mobility Ecosystems**](#software-engineering-in-automotive-and-mobility-ecosystems)
+  - [**Context**](#context)
+  - [**Overview / Current Trends in Mobility**](#overview--current-trends-in-mobility)
+  - [**Fundamentals of Software Development**](#fundamentals-of-software-development)
+  - [**Mobility Software Development**](#mobility-software-development)
+  - [**Peer-to-peer Learning Techniques**](#peer-to-peer-learning-techniques)
+  - [**Tech Curriculum**](#tech-curriculum)
+    - [**Distributed Embedded Systems**](#distributed-embedded-systems)
+    - [**Autonomous Driving Systems**](#autonomous-driving-systems)
+    - [**Mobility Ecosystems**](#mobility-ecosystems)
+  - [**Soft Curriculum**](#soft-curriculum)
+    - [**Expert Insights, New Perspectives and Best Practices**](#expert-insights-new-perspectives-and-best-practices)
+    - [**Mobility Knowledge-Base**](#mobility-knowledge-base)
+    - [**Career Opportunities and Professional Development**](#career-opportunities-and-professional-development)
+    - [**Emerging Technologies and Trends**](#emerging-technologies-and-trends)
+    - [**Societal Context, Change and Future of Mobility**](#societal-context-change-and-future-of-mobility)
+  - [**Reflective Practice and Self-assessment**](#reflective-practice-and-self-assessment)
 
 ## **Context**
 
@@ -153,8 +163,114 @@ By using these methods and techniques, peer-to-peer learning can help students t
 
 This section provides students with opportunities to apply their knowledge and skills in real-world scenarios through solo/group projects and case studies focused on software engineering in mobility ecosystems. Students choose which projects in which of the 3 below focus areas they want to work on. For this, students form teams, switch teams, and collaborate in and between teams from project to project. In so doing, students tailor their own learning path and what / how much they learn within 12 months.
 
-### [Distributed Embedded Systems](./DistributedEmbeddedSystems/README.md)
+### [**Distributed Embedded Systems**](./DistributedEmbeddedSystems/README.md)
 
-### [Autonomous Driving Systems](./AutonomousDrivingSystems/README.md)
+### [**Autonomous Driving Systems**](./AutonomousDrivingSystems/README.md)
 
-### [Mobility Ecosystems](./MobilityEcosystems/README.md)
+### [**Mobility Ecosystems**](./MobilityEcosystems/README.md)  
+</br>
+
+## **Soft Curriculum**
+
+This section features learning content about the current state and future trends and opportunities in mobility. It explores how software can be used to help create new modes and ecosystems of mobility, to increase access to mobility, and to make mobility more useful and beneficial for everyone. It also focuses on what career paths mobility software developers can take and how our learning content can be put to work.  
+</br>
+
+
+### **Expert Insights, New Perspectives and Best Practices**
+
+The SEA:ME Curriculum features a diverse range of experts from the mobility industry, science, advocacy, consultancy, and politics as guest speakers, workshops leads and individually approachable mentors / fellows. They share their knowledge and advice and engage in discussion with us - providing students with insights into how mobility is shaped and why, into innovation and new ideas, and into best practices and opportunities for software development for mobility. Guest speakers and workshop leads will introduce different perspectives on mobility, as well as different ways of thinking about and imagining mobility and the role(s) it plays in our lives and in how we live together and relate to each other. They will provide our students with opportunities to re-imagine mobility and their own career and life opportunities.  
+</br>
+
+
+### **Mobility Knowledge-Base**
+
+For the SEA:ME Curriculum, we are building an online knowledge-base of learning materials around mobility, together with experts. In addition to the tech fundamentals, this learning ecosystem provides our students with multi-angle insights on what mobility is, how it has evolved, how it currently presents itself, and what are ideas for upcoming innovation and re-shaping of mobility solutions that will change how all of us use, access and benefit from mobility. 
+
+Our students will be able to access this learning ecosystem 24/7 - and they will be able to contribute by suggesting new content that would be beneficial to our learning community. We want to actively inspire and empower students to contribute to the shared learning content and to the spectrum of ideas and inspirations that makes up our community.
+
+At the same time, any content that copyright allows will be made available open source online, so that anyone anywhere can benefit from the information and insight that we collect and share in our community.  
+</br>
+
+
+### **Career Opportunities and Professional Development**
+
+Mobility ecosystems are part of a rapidly growing and evolving industry that offers a variety of career paths and opportunities for software engineers. Some of the most common career paths and opportunities include:
+
+1. **Embedded Systems Software Engineer**: Design, development, and testing of software for embedded systems in vehicles, such as infotainment systems, powertrains, and safety systems.
+2. **Autonomous Vehicle Software Engineer**: Design, development, and testing of software for autonomous vehicles, including perception, decision-making, and control systems.
+3. **Connected Vehicle Software Engineer**: Design, development, and testing of software for connected vehicles, including telematics, infotainment, and communication systems.
+4. **Vehicle Cybersecurity Software Engineer**: Design, development, and testing of software to ensure the security and privacy of connected vehicles.
+5. **Electric Vehicle Software Engineer**: Design, development, and testing of software for electric vehicles, including power management, battery management, and vehicle control systems.
+6. **Software Test Engineer**: Testing software for vehicles to ensure that it meets quality standards and requirements, including functional testing, performance testing, and security testing.
+7. **Software Consultant**: Providing expertise and advice on software development and technology to organizations in the automotive and mobility industry, including helping organizations to adopt new technologies and best practices.
+8. **Software Architecture Engineer**: Define the structure and organization of software systems in vehicles. These software engineers work on defining the high-level design of software systems, including the organization of components, interfaces, and data flows.
+9. **Software Integration Engineer**: Integrate software systems in vehicles to work seamlessly with each other. These software engineers work on integrating software systems in vehicles to ensure they function correctly and communicate effectively with other systems.
+10. **Vehicle Software System Engineer**: Design and develop software systems for vehicles. These software engineers work on developing software systems for functions such as infotainment, navigation, safety, and comfort.
+11. **Human-Machine Interface (HMI) Software Engineer**: Design and develop software systems for the interaction between vehicles and their occupants. These software engineers work on systems that allow drivers and passengers to interact with vehicles through displays, buttons, and other input devices.
+12. **Advanced Driver Assistance Systems (ADAS) Software Engineer**: Design and develop software systems for advanced driver assistance features in vehicles. These software engineers work on systems that assist drivers in tasks such as lane keeping, automatic braking, and adaptive cruise control.
+13. **Automotive Cloud Software Engineer**: Design and develop cloud-based software systems for the automotive industry. These software engineers work on systems that allow vehicles to store and process data in the cloud.
+14. **In-Vehicle Infotainment (IVI) Software Engineer**: Design and develop software systems for in-vehicle entertainment and information systems. These software engineers work on systems that provide drivers and passengers with audio, video, and other forms of entertainment and information.
+15. **Vehicle Telematics Software Engineer**: Design and develop software systems for vehicle telematics, including GPS tracking, remote diagnostics, and over-the-air updates. These software engineers work on systems that allow vehicles to communicate with remote servers for various purposes.
+16. **Mobile Application Developer for Mobility**: Develop mobile applications for the mobility industry. These software engineers work on developing applications that allow drivers and passengers to interact with their vehicles, access information, and perform various functions from their mobile devices.
+17. **Vehicle Data Analyst**: Analyze data generated by vehicles and their systems. These analysts work on analyzing data to gain insights into vehicle performance, usage patterns, and customer preferences.
+18. **Vehicle Software Trainer**: Train others on the use and development of software systems in vehicles. These trainers work on teaching others how to use software systems in vehicles and how to develop new systems.
+19. **Vehicle Software Support Engineer**: Provide technical support for software systems in vehicles. These engineers work on providing support to customers and users of software systems in vehicles, resolving issues, and answering questions.
+20. **Software Development Operations (DevOps) Engineer**: Ensure the efficient and effective operation of software development processes. These engineers work on automating software development processes, ensuring software quality, and managing software delivery.
+
+These are just a few of the many career paths and opportunities available to software engineers in mobility ecosystems. The industry is constantly evolving, and new opportunities are emerging as technology advances and new business models emerge. Software engineers with a strong foundation in software engineering principles, a passion for technology, and a desire to work in a fast-paced and dynamic industry are well positioned to succeed in this field.  
+</br>
+
+
+### **Emerging Technologies and Trends**
+
+There are several new developments and innovations in mobility ecosystems, including:
+
+1. **Electric Vehicles (EVs)** - The increasing focus on sustainability and reducing carbon emissions has led to a growing demand for electric vehicles (EVs). Software engineers play a crucial role in the development of EVs, working on battery management systems, charging infrastructure, and the vehicle's power electronics. They also develop software for the electric drivetrain, which includes the motor and the inverter, as well as the overall vehicle control systems.
+2. **Autonomous Vehicles** - Autonomous vehicles have been a hot topic in recent years, and software engineers play a critical role in their development. They work on developing the perception, decision-making, and control systems that allow the vehicle to operate autonomously. This involves developing algorithms to detect and classify objects in the environment, make decisions based on the data collected, and control the vehicle's movements.
+3. **Connected Cars** - The trend of connected cars is growing rapidly, and software engineers are working to develop new technologies to improve the driving experience. Connected cars use the internet to provide real-time traffic updates, entertainment systems, and other features, and software engineers work on developing the infotainment systems, the vehicle's internet connectivity, and the over-the-air update systems.
+4. **Vehicle Cybersecurity** - With the increasing use of software in vehicles, cybersecurity has become a major concern. Software engineers are working on developing new solutions to protect vehicles against hacking, data theft, and other cyber attacks. This includes developing secure communication systems, secure boot processes, and secure data storage systems.
+5. **Advanced Driver Assistance Systems (ADAS)** - Advanced Driver Assistance Systems (ADAS) are becoming increasingly common in vehicles, and software engineers play a key role in their development. ADAS systems, such as lane departure warning, adaptive cruise control, and automated emergency braking, use sensors and software algorithms to enhance safety and improve the driving experience.
+6. **Vehicle-to-Vehicle (V2V) and Vehicle-to-Infrastructure (V2I) Communication** - Software engineers are developing new technologies to enable communication between vehicles and between vehicles and infrastructure. This includes developing communication protocols, security solutions, and software systems for the exchange of information. The goal is to improve safety, reduce traffic congestion, and enhance the driving experience.
+7. **Artificial Intelligence (AI)** - Artificial Intelligence (AI) is being used in the automotive industry to enhance the driving experience, improve safety, and optimize the performance of vehicles. Software engineers work on developing AI algorithms for applications such as computer vision, natural language processing, and machine learning, as well as integrating these algorithms into the vehicle's control systems.
+8. **Internet of Things (IoT)** - The Internet of Things (IoT) is being used to connect vehicles and other devices, enabling new services and experiences for drivers and passengers. Software engineers play a crucial role in developing IoT-based solutions, working on developing the communication protocols, security solutions, and software systems for connecting devices.
+
+These are just a few examples of the latest developments and innovations in mobility ecosystems. As technology continues to evolve, the role of software engineers in this field will continue to grow and change.  
+</br>
+
+
+### **Societal Context, Change and Future of Mobility**
+
+This section explores the ways in which mobility affects our lives. What current mobility modes / offers / limitations look like. And what innovations, changes and improvements the future of mobility can hold. It introduces why it’s both exciting and valuable to work on the future of mobility and to help improve all of our lives in this way.
+
+Mobility as we currently experience it is defined by long standing characteristics and continuing trends. These include, for example:
+
+1. A sharp divide between the availability of mobility offers / choices between urban and rural environments. With cities having been shaped around automobile traffic since the 1950s, and rural areas in many countries having been increasingly cut off from public transport offers. Smart networks of various mobility services can offer access to mobility in urban and rural environments and begin to connect these by making use of the intermodal spaces between them.
+2. Dominance of individual traffic in personally owned cars, as well as of freight transport on roads. Since the second half of the 20th Century, living environments across the globe have increasingly been shaped around individual vehicles on roads, with personal movement on roads defined along the lines of freedom. In smart software-driven environments of the 21st Century, thinking and action along the lines of freedom can be re-imagined and re-shaped as freedom of access and freedom of choice for everyone who needs or wants to consume movement options. 
+3. Continued growth of car ownership in urban areas, and ongoing extension of road space. While science has identified this dynamic as one of “induced traffic”, where increased road space repeatedly leads to more vehicles and traffic - and thus to new calls for yet more road space. Innovative 21st Century thinking and planning can make use of the powers of software to create efficient models and analyses of traffic flow, predictions of which effects which mobility modes can have, and help shape traffic in ways that adapts to the needs of residents more than residents continuing to adapt to assumed needs of traffic.
+4. Preventative pricing levels and complicated booking models for public transport. Software-driven, networked public transport offers - across vehicle types / sizes, roads and rail - can boost ease of use, speed and comfort of shared transportation offers. Integrated booking, navigation, and authentication apps can help users to easily combine different mobility modes, types of vehicles, and services - by identifying what is most efficient and comfortable for each single trip from Point A to Point B. 
+5. Low availability of space for non-automotive vehicles, and large amounts of space dedicated to parked vehicles that have been averaged as being parked for 96% of time per day. More choice and easier access to different mobility modes can contribute to freeing up public spaces that have been increasingly used for parking over the last decades. Smart shared vehicles can also help avoid issues around parking in spaces that are not legal, where parked cars block weakest participants in mobility such as wheelchair users, blind citizens, physically frail / limited individuals or children on bikes.
+6. Lack of barrier-free access to public transport, which leads to exclusion even where mobility choice generally exists. Modern networked and user-oriented transportation networks can offer different types of vehicles and access modes, and make these easily available and identifiable to users with special needs. They thereby can boost freedom of movement and freedom of choice for individuals that so far are strongly limited in where they can move at which time and in which ways. 
+7. Globally, there remains a constant increase in levels of emissions generated by traffic on ground, in water and in air. With these emissions (fine particles) being generated not just by combustion engines, but in large part by vehicle parts such as tires and brakes, overall volume of traffic / vehicles and efficient solutions for passenger and freight traffic are of importance. Smart mobility solutions can address emission levels, for example by easing use of low emission services (shared / rail) and by making trips in higher emission vehicles (individual / road) more efficient by use of shortest possible routes and efficient driving styles.
+8. Effects of globalized supply chains and of consumer trends toward online ordering and returning of products are continuing to fuel increases in freight transport.. Innovation in mobility management can help alleviate some of the effects. For example by addressing the “last mile” where shipments are brought to final recipients after long-haul transport, or by building efficient long-haul transport networks consisting of road and rail, in which goods are easily switched between vehicle types. 
+
+Given that established characteristics and ongoing trends in mobility currently leave much to be desired, and given that traffic circumstances are getting ever more intense and difficult around us, it is only fortunate that at this point in time there is a whole set of new opportunities starting to open up. The opportunities provided by software are beginning to offer completely new ways of imagining and shaping mobility solutions. New ways of thinking about the kinds of mobility that would give more of us access, and all of us more choice. So that each one of us could choose where and when we want to personally drive a car, or to sleep or work while riding in an autonomously driving vehicle, or to connect to public transport or ride-sharing, pick up a rental cargo bike, etc. etc. And how we could easily and cheaply combine any one of these modes and vehicles in one comfortable, quick and seamless trip from Point A to Point B.
+
+At the same time, all of us living in cities will be able to benefit from more shared and diverse mobility options also in ways that transcend our own trips. For example, where space for individual parked vehicles becomes available again to all of us for use as an enjoyable public space for leisure, sports and play. Where more mobility choice and more shared mobility evolve, our shared urban spaces increase in size and the liveability of our environments increases. And where mobility choice increases in rural areas, people have more opportunities to connect with each other and to live in environments that are still different from cities but also easily accessible anytime. 
+
+Finally, with more mobility offers and choices available, all of us will be able to move anywhere anytime - including those of us who are limited in their mobility by health status, age, disability or other circumstances. And those of us who currently have to make the choice between a type of mobility that they feel uncomfortable with or no mobility at all can receive actual choice, safety and comfort.  
+
+The future of mobility looks bright because of the new potential that is emerging now for the first time in decades - a potential that is largely driven by what software can offer. Therefore anyone who becomes a software expert for mobility today not only has plenty of choice in terms of the direction / work area to go into, but also has plenty of opportunity to be a part of something that improves their own life and the lives of us all. Makes our lives both easier and more enjoyable - by leveraging the strengths of code.  
+</br>
+
+
+## **Reflective Practice and Self-assessment**
+
+This section provides students with opportunities for self-reflection and self-assessment, helping them to evaluate their own learning and progress and set goals for future growth.
+
+Self-reflection and self-assessment are core aspects of peer-to-peer learning that allow students to evaluate their own learning and progress. These activities enable students to gain insight into their own strengths and weaknesses, identify areas for improvement, and set goals for future growth. The aim is to help students understand their own learning style, identify their individual learning needs, and develop effective strategies for meeting those needs.
+
+Self-reflection involves taking time to think critically about one's own learning experiences and the outcomes of those experiences. It may involve asking questions like: What did I learn from this project? How did I approach this task? What could I have done differently? What worked well and what didn't? What can I learn by comparing my approach to that of other students, learning from each other?
+
+Self-assessment, on the other hand, involves evaluating one's own performance against a set of criteria or standards. This may involve self-grading assignments, evaluating one's own work against a rubric, or using self-assessment tools like checklists or questionnaires.
+
+The goal of self-reflection and self-assessment is to help students take ownership of their own learning and development. By critically examining their own performance, they can identify areas for improvement, set goals, and make changes that will help them achieve their goals. Additionally, these activities help students develop self-awareness, self-confidence, and self-efficacy, all of which are important skills that can be applied in various settings, both in and outside of the learning environment.
