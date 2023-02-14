@@ -34,6 +34,6 @@ Here are a few suggestions for peer-peer educational projects that can help stud
 
 By working on these types of peer-peer educational projects, students and professionals can gain hands-on experience with the technologies and systems that make up the mobility ecosystem, and develop the skills and knowledge necessary to contribute to the development of innovative solutions in the mobility industry.
 
-### ME Project 1 - 
+### [ME Project 1 - Digital Trip Book](https://github.com/SEA-ME/ME_Digital-Trip-Book)
 
-### ME Project 2 - 
+### [ME Project 2 - IoT-Enabled Fleet Management](https://github.com/SEA-ME/ME_IoT-Enabled-Fleet-Management)

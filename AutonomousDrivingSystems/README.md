@@ -26,10 +26,10 @@ Here are a few steps that could be involved in learning autonomous driving syste
 
 Peer-to-peer educational projects provide students with the opportunity to work on real-world projects, develop their technical and team-working skills, and gain hands-on experience in developing autonomous driving systems. This approach also provides students with an understanding of the current and future industry requirements and helps to prepare them for careers in the mobility industry.
 
-### ADS Project 1 - 
+### [ADS Project 1 - Autonomous Lane Detection using PiRacer](https://github.com/SEA-ME/ADS_Autonomous-Lane-Detection)
 
-### ADS Project 2 - 
+### [ADS Project 2 - Object Detection and Avoidance with PiRacer](https://github.com/SEA-ME/ADS_Object-Detection-and-Avoidance)
 
-### ADS Project 3 - 
+### [ADS Project 3 - Road Surface Segmentation using PiRacer](https://github.com/SEA-ME/ADS_Road-Surface-Segmentation)
 
-### ADS Project 4 - 
+### [ADS Project 4 - Self-driving mail delivering PiRacer](https://github.com/SEA-ME/ADS_Self-driving-mail-cart)
