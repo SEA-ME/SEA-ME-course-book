@@ -37,3 +37,5 @@ By working on these types of peer-peer educational projects, students and profes
 ### [ME Project 1 - Digital Trip Book](https://github.com/SEA-ME/ME_Digital-Trip-Book)
 
 ### [ME Project 2 - IoT-Enabled Fleet Management](https://github.com/SEA-ME/ME_IoT-Enabled-Fleet-Management)
+
+### [ME Project 3 - Airport Experience](git@github.com:SEA-ME/ME_Airport-Experience.git)
