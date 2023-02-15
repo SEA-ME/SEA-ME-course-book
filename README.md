@@ -16,6 +16,7 @@
     - [**Emerging Technologies and Trends**](#emerging-technologies-and-trends)
     - [**Societal Context, Change and Future of Mobility**](#societal-context-change-and-future-of-mobility)
   - [**Reflective Practice and Self-assessment**](#reflective-practice-and-self-assessment)
+  - [**Study Roadmap**](#study-roadmap)
 
 ## **Context**
 
@@ -273,4 +274,8 @@ Self-reflection involves taking time to think critically about one's own learnin
 
 Self-assessment, on the other hand, involves evaluating one's own performance against a set of criteria or standards. This may involve self-grading assignments, evaluating one's own work against a rubric, or using self-assessment tools like checklists or questionnaires.
 
-The goal of self-reflection and self-assessment is to help students take ownership of their own learning and development. By critically examining their own performance, they can identify areas for improvement, set goals, and make changes that will help them achieve their goals. Additionally, these activities help students develop self-awareness, self-confidence, and self-efficacy, all of which are important skills that can be applied in various settings, both in and outside of the learning environment.
+The goal of self-reflection and self-assessment is to help students take ownership of their own learning and development. By critically examining their own performance, they can identify areas for improvement, set goals, and make changes that will help them achieve their goals. Additionally, these activities help students develop self-awareness, self-confidence, and self-efficacy, all of which are important skills that can be applied in various settings, both in and outside of the learning environment.  
+</br>
+
+## [**Study Roadmap**](https://github.com/SEA-ME/SEA-ME-Study-Roadmap)
+![here](https://github.com/SEA-ME/SEA-ME-Study-Roadmap/draw/roadmap.png)
