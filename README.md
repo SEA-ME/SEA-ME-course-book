@@ -278,4 +278,3 @@ The goal of self-reflection and self-assessment is to help students take ownersh
 </br>
 
 ## [**Study Roadmap**](https://github.com/SEA-ME/SEA-ME-Study-Roadmap)
-![here](https://github.com/SEA-ME/SEA-ME-Study-Roadmap/draw/roadmap.png)
