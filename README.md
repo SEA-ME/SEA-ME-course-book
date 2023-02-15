@@ -6,6 +6,7 @@
   - [**Mobility Software Development**](#mobility-software-development)
   - [**Peer-to-peer Learning Techniques**](#peer-to-peer-learning-techniques)
   - [**Tech Curriculum**](#tech-curriculum)
+    - [**SEA:ME Warm Up**](#seame-warm-up)
     - [**Distributed Embedded Systems**](#distributed-embedded-systems)
     - [**Autonomous Driving Systems**](#autonomous-driving-systems)
     - [**Mobility Ecosystems**](#mobility-ecosystems)
@@ -163,6 +164,8 @@ By using these methods and techniques, peer-to-peer learning can help students t
 ## **Tech Curriculum**
 
 This section provides students with opportunities to apply their knowledge and skills in real-world scenarios through solo/group projects and case studies focused on software engineering in mobility ecosystems. Students choose which projects in which of the 3 below focus areas they want to work on. For this, students form teams, switch teams, and collaborate in and between teams from project to project. In so doing, students tailor their own learning path and what / how much they learn within 12 months.
+
+### [**SEA:ME Warm Up**](https://github.com/SEA-ME/SEA-ME-warm-up)
 
 ### [**Distributed Embedded Systems**](./DistributedEmbeddedSystems/README.md)
 
