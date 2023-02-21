@@ -5,8 +5,8 @@
   - [**Fundamentals of Software Development**](#fundamentals-of-software-development)
   - [**Mobility Software Development**](#mobility-software-development)
   - [**Peer-to-peer Learning Techniques**](#peer-to-peer-learning-techniques)
+  - [**SEA:ME Warm Up**](#seame-warm-up)
   - [**Tech Curriculum**](#tech-curriculum)
-    - [**SEA:ME Warm Up**](#seame-warm-up)
     - [**Distributed Embedded Systems**](#distributed-embedded-systems)
     - [**Autonomous Driving Systems**](#autonomous-driving-systems)
     - [**Mobility Ecosystems**](#mobility-ecosystems)
@@ -161,11 +161,28 @@ There are several methods and techniques for successful peer-to-peer learning, i
 
 By using these methods and techniques, peer-to-peer learning can help students to develop their knowledge, skills, and confidence in a supportive and collaborative environment. It also allows individuals to take an active role in their own learning and development and to connect with others who share their interests and goals. And it also trains students in how real-life work environments of software developers function - and in how they can succeed in collaborating and knowledge-sharing with their colleagues and become successful in what they do.
 
+## [**SEA:ME Warm Up**](https://github.com/SEA-ME/SEA-ME-warm-up)
+A 2-week intensive workshop to introduce peer learning and collaboration among students using GitHub is a great way to help students develop valuable skills in teamwork, software development, and open-source collaboration.
+
+Goals:
+Introduce students to GitHub and how it can be used for collaboration and version control.
+Introduce students to the Qt framework and provide an overview of how it can be used to develop GUI applications using C++/Qt/Qml.
+Encourage students to collaborate with each other and to help each other learn.
+Provide students with the opportunity to practice open-source collaboration.
+Foster a sense of community and teamwork among the students.
+
+Objectives: 
+By the end of Day 1, students should be able to create their own GitHub accounts, create repositories, and make commits.
+By the end of Day 2, students should have a basic understanding of the Qt framework and be able to create a simple C++ application.
+By the end of Week 1, students should be able to work in pairs or small groups to develop a Qt application, and should be comfortable using GitHub to collaborate on their project.
+By the end of Week 2, students should have joined an open-source project on GitHub that uses Qt, and should have made contributions to the project.
+
+Throughout the workshop, students should be encouraged to communicate with each other and to help each other learn. By the end of the workshop, students should feel more comfortable collaborating with others and should have a greater appreciation for the value of peer learning.
+
+
 ## **Tech Curriculum**
 
 This section provides students with opportunities to apply their knowledge and skills in real-world scenarios through solo/group projects and case studies focused on software engineering in mobility ecosystems. Students choose which projects in which of the 3 below focus areas they want to work on. For this, students form teams, switch teams, and collaborate in and between teams from project to project. In so doing, students tailor their own learning path and what / how much they learn within 12 months.
-
-### [**SEA:ME Warm Up**](https://github.com/SEA-ME/SEA-ME-warm-up)
 
 ### [**Distributed Embedded Systems**](./DistributedEmbeddedSystems/README.md)
 
