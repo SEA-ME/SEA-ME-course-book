@@ -165,17 +165,17 @@ By using these methods and techniques, peer-to-peer learning can help students t
 A 2-week intensive workshop to introduce peer learning and collaboration among students using GitHub is a great way to help students develop valuable skills in teamwork, software development, and open-source collaboration.
 
 Goals:
-Introduce students to GitHub and how it can be used for collaboration and version control.
-Introduce students to the Qt framework and provide an overview of how it can be used to develop GUI applications using C++/Qt/Qml.
-Encourage students to collaborate with each other and to help each other learn.
-Provide students with the opportunity to practice open-source collaboration.
-Foster a sense of community and teamwork among the students.
+1. Introduce students to GitHub and how it can be used for collaboration and version control.
+2. Introduce students to the Qt framework and provide an overview of how it can be used to develop GUI applications using C++/Qt/Qml.
+3. Encourage students to collaborate with each other and to help each other learn.
+4. Provide students with the opportunity to practice open-source collaboration.
+5. Foster a sense of community and teamwork among the students.
 
 Objectives: 
-By the end of Day 1, students should be able to create their own GitHub accounts, create repositories, and make commits.
-By the end of Day 2, students should have a basic understanding of the Qt framework and be able to create a simple C++ application.
-By the end of Week 1, students should be able to work in pairs or small groups to develop a Qt application, and should be comfortable using GitHub to collaborate on their project.
-By the end of Week 2, students should have joined an open-source project on GitHub that uses Qt, and should have made contributions to the project.
+* By the end of Day 1, students should be able to create their own GitHub accounts, create repositories, and make commits.
+* By the end of Day 2, students should have a basic understanding of the Qt framework and be able to create a simple C++ application.
+* By the end of Week 1, students should be able to work in pairs or small groups to develop a Qt application, and should be comfortable using GitHub to collaborate on their project.
+* By the end of Week 2, students should have joined an open-source project on GitHub that uses Qt, and should have made contributions to the project.
 
 Throughout the workshop, students should be encouraged to communicate with each other and to help each other learn. By the end of the workshop, students should feel more comfortable collaborating with others and should have a greater appreciation for the value of peer learning.
 
