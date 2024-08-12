@@ -1,6 +1,6 @@
 # **Autonomous Driving Systems**
 
-The term autonomous driving systems refers to advanced technology that allows vehicles to drive themselves without human intervention. These systems are designed to provide a high degree of safety, comfort, and efficiency, and to make driving more convenient and accessible for people. \
+The term autonomous driving systems refers to advanced technology that allows vehicles to drive themselves without human intervention. These systems are designed to provide a high degree of safety, comfort, and efficiency, and to make driving more convenient and accessible for people. 
 
 Autonomous driving systems typically consist of a combination of hardware and software components. The hardware components include sensors, such as cameras, radar, and lidar, that are used to gather information about the vehicle's surroundings. This information is processed by the system's control unit, which includes a central computer and various microcontrollers. The software components of the system include algorithms that use the information gathered by the sensors to make decisions about the vehicle's movements and behavior.
 
@@ -26,10 +26,10 @@ Here are a few steps that could be involved in learning autonomous driving syste
 
 Peer-to-peer educational projects provide students with the opportunity to work on real-world projects, develop their technical and team-working skills, and gain hands-on experience in developing autonomous driving systems. This approach also provides students with an understanding of the current and future industry requirements and helps to prepare them for careers in the mobility industry.
 
-### [ADS Project 1 - Autonomous Lane Detection using PiRacer](https://github.com/SEA-ME/ADS_Autonomous-Lane-Detection)
+### [ADS Project 1 - Autonomous Lane Detection](https://github.com/SEA-ME/ADS_Autonomous-Lane-Detection)
 
-### [ADS Project 2 - Object Detection and Avoidance with PiRacer](https://github.com/SEA-ME/ADS_Object-Detection-and-Avoidance)
+### [ADS Project 2 - Start and Goal](https://github.com/SEA-ME/ADS_Self-driving-mail-cart)
 
-### [ADS Project 3 - Road Surface Segmentation using PiRacer](https://github.com/SEA-ME/ADS_Road-Surface-Segmentation)
+### [ADS Project 3 - Object Detection and Avoidance](https://github.com/SEA-ME/ADS_Object-Detection-and-Avoidance)
 
-### [ADS Project 4 - Self-driving mail delivering PiRacer](https://github.com/SEA-ME/ADS_Self-driving-mail-cart)
+### [ADS Project 4 - Truck-Platooning system](https://github.com/SEA-ME/ADS_Truck-Platooning)
